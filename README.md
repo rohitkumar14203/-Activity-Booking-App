@@ -51,7 +51,7 @@ A simple Node.js + Express.js based RESTful API for **User Registration, Activit
   }
   ```
 
-- **GET** `/api/bookings/mybooking` → Get all bookings for the logged-in user
+- **GET** `/api/bookings/myBooking` → Get all bookings for the logged-in user
 
   ## 🚀 Run Project Locally
 
